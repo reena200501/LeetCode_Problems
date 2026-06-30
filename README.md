@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0728-self-dividing-numbers](https://github.com/reena200501/LeetCode_Problems/tree/master/0728-self-dividing-numbers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/reena200501/LeetCode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/reena200501/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/reena200501/LeetCode_Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/reena200501/LeetCode_Problems/tree/master/2413-smallest-even-multiple) |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/reena200501/LeetCode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/reena200501/LeetCode_Problems/tree/master/2427-number-of-common-factors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/reena200501/LeetCode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
