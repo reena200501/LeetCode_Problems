@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/reena200501/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/reena200501/LeetCode_Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/reena200501/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reena200501/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/reena200501/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
