@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reena200501/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/reena200501/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/reena200501/LeetCode_Problems/tree/master/2129-capitalize-the-title) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/reena200501/LeetCode_Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Simulation
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/reena200501/LeetCode_Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reena200501/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/reena200501/LeetCode_Problems/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/reena200501/LeetCode_Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Math
 |  |
 | ------- |
