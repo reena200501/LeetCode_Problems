@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/reena200501/LeetCode_Problems/tree/master/0657-robot-return-to-origin) |
+| [1446-consecutive-characters](https://github.com/reena200501/LeetCode_Problems/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/reena200501/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/reena200501/LeetCode_Problems/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reena200501/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
