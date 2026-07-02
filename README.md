@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/reena200501/LeetCode_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/reena200501/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/reena200501/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3925-concatenate-array-with-reverse](https://github.com/reena200501/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/reena200501/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/reena200501/LeetCode_Problems/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/reena200501/LeetCode_Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3925-concatenate-array-with-reverse](https://github.com/reena200501/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
