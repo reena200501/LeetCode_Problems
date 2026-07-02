@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/reena200501/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0704-binary-search](https://github.com/reena200501/LeetCode_Problems/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/reena200501/LeetCode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/reena200501/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/reena200501/LeetCode_Problems/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/reena200501/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/reena200501/LeetCode_Problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
