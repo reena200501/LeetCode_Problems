@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/reena200501/LeetCode_Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/reena200501/LeetCode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/reena200501/LeetCode_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/reena200501/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 ## String
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/reena200501/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/reena200501/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
