@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/reena200501/LeetCode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0706-design-hashmap](https://github.com/reena200501/LeetCode_Problems/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0707-design-linked-list) |
