@@ -146,10 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/reena200501/LeetCode_Problems/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0707-design-linked-list) |
 ## Design
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/reena200501/LeetCode_Problems/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
