@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/reena200501/LeetCode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/reena200501/LeetCode_Problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/reena200501/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/reena200501/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/reena200501/LeetCode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/reena200501/LeetCode_Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/reena200501/LeetCode_Problems/tree/master/3925-concatenate-array-with-reverse) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/reena200501/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/reena200501/LeetCode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/reena200501/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/reena200501/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/reena200501/LeetCode_Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
