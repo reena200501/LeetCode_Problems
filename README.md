@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/reena200501/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/reena200501/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/reena200501/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/reena200501/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/reena200501/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0496-next-greater-element-i](https://github.com/reena200501/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/reena200501/LeetCode_Problems/tree/master/0575-distribute-candies) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/reena200501/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/reena200501/LeetCode_Problems/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/reena200501/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/reena200501/LeetCode_Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
