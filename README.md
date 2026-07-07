@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/reena200501/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/reena200501/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/reena200501/LeetCode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/reena200501/LeetCode_Problems/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
