@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/reena200501/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/reena200501/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/reena200501/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/reena200501/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/reena200501/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/reena200501/LeetCode_Problems/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/reena200501/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/reena200501/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/reena200501/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/reena200501/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/reena200501/LeetCode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/reena200501/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/reena200501/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/reena200501/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/reena200501/LeetCode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/reena200501/LeetCode_Problems/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
