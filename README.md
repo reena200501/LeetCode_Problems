@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/reena200501/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/reena200501/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/reena200501/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0496-next-greater-element-i](https://github.com/reena200501/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/reena200501/LeetCode_Problems/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/reena200501/LeetCode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/reena200501/LeetCode_Problems/tree/master/0704-binary-search) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/reena200501/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/reena200501/LeetCode_Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/reena200501/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/reena200501/LeetCode_Problems/tree/master/0575-distribute-candies) |
 | [0706-design-hashmap](https://github.com/reena200501/LeetCode_Problems/tree/master/0706-design-hashmap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/reena200501/LeetCode_Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/reena200501/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/reena200501/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/reena200501/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/reena200501/LeetCode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/reena200501/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/reena200501/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
