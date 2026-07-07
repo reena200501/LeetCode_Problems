@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/reena200501/LeetCode_Problems/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/reena200501/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/reena200501/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/reena200501/LeetCode_Problems/tree/master/0263-ugly-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/reena200501/LeetCode_Problems/tree/master/0029-divide-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/reena200501/LeetCode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
