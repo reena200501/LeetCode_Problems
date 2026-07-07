@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/reena200501/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/reena200501/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/reena200501/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/reena200501/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/reena200501/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/reena200501/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0496-next-greater-element-i](https://github.com/reena200501/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/reena200501/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/reena200501/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/reena200501/LeetCode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/reena200501/LeetCode_Problems/tree/master/0867-transpose-matrix) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/reena200501/LeetCode_Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/reena200501/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/reena200501/LeetCode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/reena200501/LeetCode_Problems/tree/master/0867-transpose-matrix) |
 ## Linked List
